@@ -1,0 +1,15 @@
+{
+  "author" : "isaac as THE HONEY BADGER",
+  "name" : "STATORB.IHC",
+  "version" : "0.1",
+  "friendlyName" : "Stat Orbs",
+  "link" : "community.playstarbound.com/threads/124193/",
+  "description" : "[h1]Lets go kill cactaur![/h1]
+This version of the mod adds the tier 1 armor of every race to every races starting outfit option. Works for Vanilla races only.
+
+[url=community.playstarbound.com/threads/124193/]MEGATHREAD[/url]
+Find the server version on [url=https://github.com/IsaacHart/sbmod-statorb/releases/tag/0.1]git.[/url]",
+  "requires" : [],
+  "includes" : [],
+  "steamContentId" : "763291854"
+}
